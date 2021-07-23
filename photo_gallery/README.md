@@ -20,13 +20,13 @@ Screen Shots
 ------------
 
 
-<img src="used_images\127.0.0.1_8000_addphoto_.png" width='600' hight='500'>
+<img src="used_images\127.0.0.1_8000_addphoto_.png" width='1200' hight='1500'>
 
-<img src="used_images\127.0.0.1_8000_ (1).png" width='600' hight='500'>
+<img src="used_images\127.0.0.1_8000_ (1).png" width='1200' hight='1500'>
 
-<img src="used_images\127.0.0.1_8000__page=2.png" width='600' hight='500'>
+<img src="used_images\127.0.0.1_8000__page=2.png" width='1200' hight='1500'>
 
-<img src="used_images\127.0.0.1_8000_photo_9.png" width='600' hight='500'>
+<img src="used_images\127.0.0.1_8000_photo_9.png" width='1200' hight='1500'>
 
 
 
